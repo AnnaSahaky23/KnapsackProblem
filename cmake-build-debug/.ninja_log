@@ -1,0 +1,15 @@
+# ninja log v6
+2	600	1742241145419896827	CMakeFiles/Tests.dir/tests/BoundedKnapsackTests.cpp.o	c2d4a1b7a03ca950
+4	499	1742154925388581923	CMakeFiles/KnapsackProblem.dir/src/main.cpp.o	df12dede82e08216
+3	482	1742242449061446784	CMakeFiles/Tests.dir/tests/ZeroOneKnapsackTests.cpp.o	25752d87d3da033
+482	517	1742242449540689195	Tests	7d02cd61f9956552
+2	69	1742246705829903046	build.ninja	30f09424bddf777
+499	614	1742154925883697712	KnapsackProblem	aff5e3c43d06fb85
+3	519	1742154504162367946	CMakeFiles/Tests.dir/tests/UnboundedKnapsackTests.cpp.o	95c27bc3dd36c124
+3	77	1742246705829903046	build.ninja	30f09424bddf777
+8	768	1742246705845673143	CMakeFiles/Tests.dir/tests/BoundedKnapsackTests.cpp.o	c2d4a1b7a03ca950
+768	892	1742246706605983715	Tests	6aa8d8e232678ba2
+12	889	1742248133515679398	CMakeFiles/Tests.dir/tests/BoundedKnapsackTests.cpp.o	c2d4a1b7a03ca950
+889	1008	1742248134392069729	Tests	6aa8d8e232678ba2
+5	740	1742248208655112284	CMakeFiles/Tests.dir/tests/BoundedKnapsackTests.cpp.o	c2d4a1b7a03ca950
+741	843	1742248209390628203	Tests	6aa8d8e232678ba2

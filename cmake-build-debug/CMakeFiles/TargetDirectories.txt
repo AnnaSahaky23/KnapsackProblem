@@ -1,0 +1,4 @@
+/Users/anna/Desktop/KnapsackProblem/cmake-build-debug/CMakeFiles/KnapsackProblem.dir
+/Users/anna/Desktop/KnapsackProblem/cmake-build-debug/CMakeFiles/Tests.dir
+/Users/anna/Desktop/KnapsackProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anna/Desktop/KnapsackProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
